@@ -1,0 +1,10 @@
+title: Home
+description: Optimization • Machine Learning • Computational Imaging • Inverse Problems
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  avatar: /assets/profile.jpg
