@@ -31,18 +31,19 @@ Prior to my current research, I worked as a signal processing engineer developin
 
 **Hamid Fathi**, A. Skorikov, T. van Leeuwen  
 *Data-Driven Filter Design for Flexible and Noise-Robust Tomographic Imaging*
+Applied Mathematics for Modern Challenges.
 
 ### 2025
 
 **Hamid Fathi**, A. Skorikov, T. van Leeuwen  
 *Bi-level Optimization and Implicit Differentiation for Optimal Experimental Design in Tomography*  
-SSVM 2025.
+SSVM.
 
 ### 2024
 
 **Hamid Fathi**, T. van Leeuwen  
 *Source Design Optimization for Depth Image Reconstruction in X-ray Imaging*  
-Journal of Mathematics, 2024.
+Journal of Mathematics.
 
 ### 2022
 
