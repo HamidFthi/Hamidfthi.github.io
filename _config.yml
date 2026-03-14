@@ -7,4 +7,4 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar: /assets/profile.jpg
+  avatar:
