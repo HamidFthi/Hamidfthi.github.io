@@ -30,7 +30,7 @@ Prior to my current research, I worked as a signal processing engineer developin
 ### 2026
 
 **Hamid Fathi**, A. Skorikov, T. van Leeuwen  
-*Data-Driven Filter Design for Flexible and Noise-Robust Tomographic Imaging*
+*Data-Driven Filter Design for Flexible and Noise-Robust Tomographic Imaging*  
 Applied Mathematics for Modern Challenges.
 
 ### 2025
