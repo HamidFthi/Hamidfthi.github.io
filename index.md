@@ -11,7 +11,10 @@ I am a researcher working on optimization and machine learning with applications
 
 <h2 style="text-align:justify;"> Research Interests</h2>
 <p style="text-align:center;"> 
-- Numerical optimization - Machine learning - 3D reconstruction - Signal processing</p>
+- Numerical optimization 
+- Machine learning 
+- 3D reconstruction 
+- Signal processing</p>
 
 
 ## Publications
