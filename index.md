@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hamid Fathi
-author_profile: true
+author_profile: false
 ---
 <img src="/assets/profile.jpg" width="300">
 
